@@ -17,10 +17,10 @@ int main(void)
 		if (d != '9')
 		{
 			putchar(',');
-			puthcar(' ');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
 
-	retunr (0);
+	return (0);
 }
